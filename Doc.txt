@@ -1,0 +1,16 @@
+Recursion : function calls itself it is called as recursion.
+
+How to implement : 
+1. Need base condition and always return it.- where to stop
+2. Need recurrence relation - for processing
+
+Problems : 
+1. if base condition is not metioned - segmentation fault - all memeory used.
+
+Types : 
+Head recursion : 
+ - base condtion - recusion relation - processing
+
+Tail recursion :
+ - base condtion - processing - recusion relation
+
